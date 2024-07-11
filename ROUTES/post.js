@@ -94,10 +94,6 @@ postRouter.patch("/posts/:id",async(req,res)=>{
     }
 });
 
-
-
-
-
 export default postRouter;
 
 
